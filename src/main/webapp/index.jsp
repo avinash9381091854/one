@@ -3,7 +3,7 @@
 	<title>MyJavaAPP</title>
 </head>
 <body>
-	<h1 style="color: purple; font-size: 40px;" align="center">HELLO Kevin WE DEPLOYED OUR APP USING JENKINS</h1>
+	<h1 style="color: yellow; font-size: 40px;" align="center">HELLO Kevin WE DEPLOYED OUR APP USING JENKINS</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">THIS IS APP DEPLOYMENT USING TOMCAT</h1>
 	<h1 style="color: green; font-size: 40px;" align="center">234567890</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
